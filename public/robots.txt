@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://horix.es/sitemap.xml
