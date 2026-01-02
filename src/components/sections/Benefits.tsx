@@ -52,9 +52,9 @@ function BenefitRow({ benefit, index }: { benefit: typeof benefits[0]; index: nu
                 {benefit.highlight}
               </div>
               <div className="text-horix-gray text-sm">
-                {index === 0 && 'multa máxima evitable'}
-                {index === 1 && 'tiempo de configuración'}
-                {index === 2 && 'tu defensa legal'}
+                {index === 0 && 'configuración'}
+                {index === 1 && 'cumplimiento legal'}
+                {index === 2 && 'soporte técnico'}
               </div>
             </div>
           </div>

@@ -3,17 +3,19 @@ import { Logo } from '../common/Logo'
 
 const footerLinks = {
   producto: [
-    { label: 'Características', href: '#caracteristicas' },
+    { label: 'Caracteristicas', href: '#caracteristicas' },
     { label: 'Precios', href: '#precios' },
     { label: 'FAQ', href: '#faq' },
   ],
   legal: [
-    { label: 'Privacidad', href: '#' },
-    { label: 'Términos de uso', href: '#' },
-    { label: 'Cookies', href: '#' },
+    { label: 'Aviso Legal', href: '/legal/notice' },
+    { label: 'Politica de Privacidad', href: '/legal/privacy' },
+    { label: 'Politica de Cookies', href: '/legal/cookies' },
+    { label: 'Terminos y Condiciones', href: '/legal/terms' },
   ],
   contacto: [
-    { label: 'info@erbet.com.es', href: 'mailto:info@erbet.com.es' },
+    { label: 'info@elevate.com.es', href: 'mailto:info@elevate.com.es' },
+    { label: '+34 684 053 267', href: 'tel:+34684053267' },
   ],
 }
 

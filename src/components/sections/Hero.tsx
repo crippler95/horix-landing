@@ -1,5 +1,5 @@
 import { Container, Button, Badge } from '../common'
-import { TimeVisualization } from '../animations'
+import { InteractiveDemo } from '../animations'
 
 export function Hero() {
   return (
@@ -15,9 +15,9 @@ export function Hero() {
             </div>
 
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight mb-6">
-              El fichaje que la{' '}
-              <span className="text-gradient">Inspección</span>{' '}
-              aprueba
+              Software de control horario{' '}
+              <span className="text-gradient">legal</span>{' '}
+              para empresas
             </h1>
 
             <p className="text-lg md:text-xl text-horix-gray mb-8 max-w-xl mx-auto lg:mx-0">
@@ -51,7 +51,7 @@ export function Hero() {
           </div>
 
           <div className="flex justify-center lg:justify-end">
-            <TimeVisualization />
+            <InteractiveDemo />
           </div>
         </div>
       </Container>

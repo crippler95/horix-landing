@@ -33,18 +33,18 @@ export const features = [
 
 export const benefits = [
   {
-    title: 'Evita multas de hasta 6.250€',
-    description: 'El incumplimiento del RDL 8/2019 puede costarte caro. Con Horix, cada fichaje está documentado y sellado temporalmente, listo para cualquier inspección.',
-    highlight: '6.250€',
+    title: 'Configurado en minutos',
+    description: 'Sin instalaciones complicadas. Crea tu cuenta, invita a tu equipo y empieza a fichar hoy mismo.',
+    highlight: '5 min',
   },
   {
-    title: 'Configurado en minutos, no semanas',
-    description: 'Sin instalaciones complicadas. Crea tu cuenta, invita a tu equipo y empieza a fichar hoy mismo. Soporte incluido para resolver cualquier duda.',
-    highlight: 'minutos',
+    title: 'Cumplimiento garantizado',
+    description: 'RDL 8/2019 y RGPD. Registro inmutable con timestamp, listo para cualquier inspección de trabajo.',
+    highlight: '100%',
   },
   {
-    title: 'Auditoría que te protege',
-    description: 'Cada acción queda registrada: quién, cuándo, qué. Si hay discrepancias, tienes la evidencia. Tu defensa legal está cubierta.',
-    highlight: 'protege',
+    title: 'Soporte cuando lo necesites',
+    description: 'Equipo español disponible para ayudarte. Formación y migración de datos incluidas en todos los planes.',
+    highlight: '24/7',
   },
 ]
